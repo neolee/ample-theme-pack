@@ -1,0 +1,3 @@
+[submodule "vendor/ample-theme"]
+	path = vendor/ample-theme
+	url = git@github.com:jordonbiondo/ample-theme.git
